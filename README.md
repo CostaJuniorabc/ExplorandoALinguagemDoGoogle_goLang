@@ -1,21 +1,20 @@
 # ExplorandoALinguagemDoGoogle_goLang
 
-Sobre este curso
+Udemy Curso Go (Golang): Explorando a Linguagem do Google
 
 Go (Golang) é uma linguagem moderna, legível, concorrente e é extremamente rápida. Perfeita para aplicações Web!
 
 ----------------------------------------------------------------------------------------------
+Link da Apostila
 
-Pelos números
+http://files.cod3r.com.br/apostila-go.pdf
 
-Nível de experiência: Todos os níveis
-Alunos: 8339
-Idiomas: Português
-Legendas: Sim
+Link do Repositório do curso no Github
+
+https://github.com/cod3rcursos/curso-go
 
 ----------------------------------------------------------------------------------------------
-
-Descrição
+Descrição:
 
 Go é a linguagem desenvolvida pelo Google para resolver problemas da escala que a gigante da tecnologia tem e, sem dúvida, essa linguagem também vai ajudar a turbinar as suas aplicações.
 
@@ -25,22 +24,9 @@ Go é uma linguagem enxuta, moderna, compilada (muito rápida), que tem vários 
 
 Não perca tempo e se matricule para aprender essa linguagem fantástica!
 
-O que você aprenderá
-Aprender os fundamentos da linguagem
-Conhecer as estrutura de controles, operadores, funções, ponteiros, struct, interface, polimorfismo...
-Boas práticas de programação
-Usar banco de dados com Go (Criar tabela, transação, inserir, alterar, excluir e consultar)
-Criar um Webservice básico com Go
-Há algum requisito ou pré-requisito para o curso?
-Ter noção básica de como usar um PC
-Ter conhecimento básico de lógica de programação
-Para quem é este curso:
-Alunos que desejam aumentar os seus conhecimentos em programação
-Programadores que desejam aprender a linguagem GO
-Programadores Web que desejam criar aplicações escaláveis
+O que você aprenderá Aprender os fundamentos da linguagem Conhecer as estrutura de controles, operadores, funções, ponteiros, struct, interface, polimorfismo... Boas práticas de programação Usar banco de dados com Go (Criar tabela, transação, inserir, alterar, excluir e consultar) Criar um Webservice básico com Go Há algum requisito ou pré-requisito para o curso? Ter noção básica de como usar um PC Ter conhecimento básico de lógica de programação Para quem é este curso: Alunos que desejam aumentar os seus conhecimentos em programação Programadores que desejam aprender a linguagem GO Programadores Web que desejam criar aplicações escaláveis.
 
 ----------------------------------------------------------------------------------------------
-
 Instrutor
 
 Leonardo Moura Leitao
